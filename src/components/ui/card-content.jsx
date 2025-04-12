@@ -1,0 +1,1 @@
+export const CardContent = ({ children, ...props }) => <div className="p-4" {...props}>{children}</div>;
